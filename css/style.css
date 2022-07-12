@@ -16,7 +16,7 @@
   background-color: var(--bs-teal);
 }
 
-.icon {
+.icon.fa-brands {
   width: 2rem;
   height: 2rem;
   line-height: 2rem;
